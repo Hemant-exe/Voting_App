@@ -64,7 +64,8 @@
 
 ## Screenshots
 
-![GitHub Logo]([https://github.com/Hemant-exe/Voting_App/blob/main/AdminPage.png])
+![Admin Page](https://raw.githubusercontent.com/Hemant-exe/Voting_App/main/AdminPage.png)
+
 
 
 ## Usage
