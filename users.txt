@@ -1,0 +1,8 @@
+Admin=Hemant
+Password="Hemant@123"
+
+user=user
+Password="1234"
+
+user2=user2
+Password="12345"
