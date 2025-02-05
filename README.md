@@ -62,6 +62,11 @@
 
         pip install fastapi mysql-connector-python pydantic python-dotenv uvicorn uvicorn[standard] PyJWT
 
+## Screenshots
+
+![GitHub Logo]([https://github.com/Hemant-exe/Voting_App/blob/main/AdminPage.png])
+
+
 ## Usage
 
 #### Note: Update the database credentials in the `./Database_API/.env` file.
