@@ -65,6 +65,10 @@
 ## Screenshots
 
 ![Admin Page](https://raw.githubusercontent.com/Hemant-exe/Voting_App/main/AdminPage.png)
+![User Page](https://raw.githubusercontent.com/Hemant-exe/Voting_App/main/VoterPage.png)
+![Login Page](https://raw.githubusercontent.com/Hemant-exe/Voting_App/main/LoginPage.png)
+![Login Page](https://raw.githubusercontent.com/Hemant-exe/Voting_App/main/LoginPage2.png)
+
 
 
 
